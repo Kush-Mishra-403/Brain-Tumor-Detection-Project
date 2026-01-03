@@ -26,6 +26,7 @@ Manual analysis of brain MRI scans is time-consuming and requires specialized me
 ---
 
 ## Dataset
+- **Link:** https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 - **Total Images:** 3060  
 - **Image Type:** Brain MRI (Axial view)  
 - **Classes:**  
